@@ -1,0 +1,12 @@
+table,th,td{
+    border: 10px solid brown;
+    border-collapse: collapse;
+    padding:20
+
+}
+h1{
+    text-align: left;
+    color:brown; 
+    
+    
+ } 
